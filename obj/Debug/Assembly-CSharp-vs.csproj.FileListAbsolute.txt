@@ -1,0 +1,12 @@
+C:\Users\Robert\Documents\EECS499\EECS499-Week5-Prototype\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Robert\Documents\EECS499\EECS499-Week5-Prototype\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Robert\Documents\EECS499\EECS499-Week5-Prototype\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Robert\Documents\EECS499\EECS499-Week5-Prototype\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Robert\Documents\EECS499\EECS499-Week5-Prototype\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Robert\Documents\EECS499\EECS499-Week5-Prototype\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Robert\Documents\EECS499\EECS499-Week5-Prototype\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Robert\Documents\EECS499\EECS499-Week5-Prototype\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Robert\Documents\EECS499\EECS499-Week5-Prototype\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Robert\Documents\EECS499\EECS499-Week5-Prototype\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Documents\EECS499\EECS499-Week5-Prototype\obj\Debug\Assembly-CSharp.dll
+C:\Users\Robert\Documents\EECS499\EECS499-Week5-Prototype\obj\Debug\Assembly-CSharp.pdb
